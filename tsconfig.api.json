@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "outDir": "./build/api"
+  },
+  "extends": "./tsconfig.json",
+  "include": ["api"],
+  "exclude": ["node_modules", "broker"]
+}

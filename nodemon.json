@@ -1,0 +1,5 @@
+{
+  "watch": ["broker"],
+  "exec": "ts-node --files --project tsconfig.broker.json broker/index.ts",
+  "ext": "js ts"
+}
