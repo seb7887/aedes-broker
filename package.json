@@ -1,0 +1,30 @@
+{
+  "name": "aedes-broker",
+  "version": "1.0.0",
+  "description": "Serverless Aedes MQTT broker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seb7887/aedes-broker.git"
+  },
+  "author": "Sebastian Matias Segura (@seb7887)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seb7887/aedes-broker/issues"
+  },
+  "homepage": "https://github.com/seb7887/aedes-broker#readme",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.40",
+    "nodemon": "^2.0.2",
+    "prettier": "^1.19.1",
+    "serverless": "^1.61.3",
+    "serverless-offline": "^5.12.1",
+    "ts-jest": "^25.0.0",
+    "ts-node": "^8.6.2",
+    "tslint": "^6.0.0",
+    "typescript": "^3.7.5"
+  }
+}
