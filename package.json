@@ -37,7 +37,7 @@
     "typescript": "^3.7.5"
   },
   "dependencies": {
-    "aedes": "^0.40.1",
+    "aedes": "^0.42.1",
     "aedes-logging": "^2.0.1",
     "aedes-persistence": "^7.2.1",
     "dotenv": "^8.2.0",
